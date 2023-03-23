@@ -8,12 +8,10 @@ import {
 import './index.css'
 
 import Home from './pages/home/Home'
-// import Start from './pages/start/Start'
 import Login from './pages/userModule/Login'
 import CreateAccount from './pages/userModule/CreateAccount'
-
 import Welcome from './pages/userModule/Welcome'
-// import Loading from './components/Loading';
+
 
 const router = createBrowserRouter([
   {

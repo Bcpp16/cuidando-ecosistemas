@@ -16,5 +16,12 @@ button {
 
 
 .icon{
-  font-size: 1.5rem;
+  font-size: 1.4rem;
+
+}
+
+
+
+.icon-bar:active > .icon {
+  color: #a7f3d0;
 }

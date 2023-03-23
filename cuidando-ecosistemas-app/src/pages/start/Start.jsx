@@ -4,7 +4,7 @@ function Start() {
     <div className="flex justify-center items-center h-screen">
       <img
         className="w-1/6"
-        src="./assets/hoja-verde.png"
+        src="./assets/logo/hoja-verde-500.png"
         alt="Logo hoja verde"
       />
     </div>
